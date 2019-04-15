@@ -58,8 +58,7 @@ namespace Proximity.Search.UnitTest
             string[] input = { "1", "2" };
             Utilities utilities = new Utilities();
             var response = utilities.ValidateInputs(input);
-            Assert.IsNotNull(response);
-            Assert.AreEqual(response.Success, false);
+            Assert.IsNull(response);
         }
 
     }
