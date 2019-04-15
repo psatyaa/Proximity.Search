@@ -9,7 +9,7 @@ Application returns the number of times the keywords exist in the document withi
 .Net Core 2.2
 
  1. Extract the zip to any location on your computer
- 2. On command prompt type **cd {PATH_TO_THE_EXTRACTED_FILE}\Proximity.Search\Proximity.Search.Console\bin\Debug\netcoreapp2.2\publish\Version1.0**
+ 2. On command prompt type **cd {PATH_TO_THE_EXTRACTED_FILE}\Proximity.Search\Proximity.Search.Console\bin\Debug\netcoreapp2.2**
  3. Type command "**dotnet.exe Proximity.Search.Console.dll the canal 6 input.txt**" (There are 2 sample files in Input folder for testing)
  
 
