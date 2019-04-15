@@ -37,8 +37,10 @@ Service-->Console: Search Response
 The application is written using SOLID Design Principles of Object Oriented Programming.
 
 **Time Complexity** : O(n log n)
+
 **Space Complexity:** O(n) (n is the no of words in the file)
+
 **Cyclomatic Complexity of GetDataCount()**: 5
+
 **Maintainability of Algorithm Project** : 91
-readme.md
-Displaying readme.md.
+
